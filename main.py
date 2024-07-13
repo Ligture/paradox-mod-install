@@ -34,3 +34,4 @@ elif method == 1:
             shutil.move(i1, os.path.join(modpath, os.path.basename(i1)))
         mod1.start(os.path.basename(i1))
 
+#dasda
